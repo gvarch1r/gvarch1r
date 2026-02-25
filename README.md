@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm gvarch1r 👋
 
-<!--
-**gvarch1r/gvarch1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer** | **DevOps** | **AI**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+**Backend:** Python | FastAPI | SQLAlchemy | PostgreSQL | Redis
+
+**DevOps:** Docker | GitHub Actions | Linux
+
+**AI:** OpenAI API | RAG | LangChain
+
+---
+
+### Projects
+
+**RemnatgSeller** — Telegram bot for VPN subscription sales  
+→ [GitHub](https://github.com/gvarch1r/remnatgseller)
+
+**portfolio-backend** — REST API, JWT auth, AI chat  
+→ [GitHub](https://github.com/gvarch1r/portfolio-backend)
+
+---
+
+### Contact
+
+**[Telegram](https://t.me/whoiamfucked)** | **[GitHub](https://github.com/gvarch1r)**
