@@ -1,34 +1,42 @@
 # Hi, I'm gvarch1r 👋
 
-**Backend Developer** | **DevOps** | **Rust Plugin Developer** | **AI**
+**Backend Developer** · **DevOps** · **Game server plugins (Oxide/uMod, C#)** · **AI**
 
 ---
 
 ### Stack
 
-**Backend:** Python | FastAPI | SQLAlchemy | PostgreSQL | Redis
+**Backend:** Python · FastAPI · SQLAlchemy · PostgreSQL · Redis
 
-**DevOps:** Docker | GitHub Actions | Linux
+**DevOps:** Docker · GitHub Actions · Linux
 
-**Rust (Oxide/uMod):** C# | Oxide API | CUI
+**Game servers:** C# · Oxide/uMod · CUI — plugins for **Rust** (Facepunch game)
 
-**AI:** OpenAI API | RAG | LangChain
+**AI / automation:** OpenAI API · RAG · LangChain · Ollama (local LLM)
+
+**Desktop / BIM (selected projects):** C# · Revit API · AutoCAD .NET API
 
 ---
 
 ### Projects
 
-**RemnaTGSeller** — Telegram bot for VPN subscription sales  
-→ [GitHub](https://github.com/gvarch1r/remnatgseller)
-
-**portfolio-backend** — REST API, JWT auth, AI chat  
+**portfolio-backend** — REST API, JWT auth, task CRUD, AI chat + RAG. Docker, GitHub Actions  
 → [GitHub](https://github.com/gvarch1r/portfolio-backend)
 
-**Rust Plugins** — Oxide/uMod plugins (GatherMultiplier, PassiveRegeneration, KitCooldown и др.)  
+**RemnaTGSeller** — Telegram bot for VPN subscriptions: plans, promos, referrals, payments, Remnawave integration  
+→ [GitHub](https://github.com/gvarch1r/remnatgseller)
+
+**remnapi** — Python client for **Remnawave Panel** (OpenAPI-generated from official API contract; sync script for upstream OpenAPI)  
+→ [GitHub](https://github.com/gvarch1r/remnapi)
+
+**SupnCopilot** — BIM automation copilot for Revit 2025 & AutoCAD 2025; natural language commands via local **Ollama**  
+→ [GitHub](https://github.com/gvarch1r/SupnCopilot)
+
+**rust_plugins** — Oxide/uMod plugins for Rust servers (GatherMultiplier, PlayerStats, DiscordWebhook, GodMode, RemoveTool, and others)  
 → [GitHub](https://github.com/gvarch1r/rust_plugins)
 
 ---
 
 ### Contact
 
-**[Telegram](https://t.me/whoiamfucked)** | **[GitHub](https://github.com/gvarch1r)**
+**[GitHub](https://github.com/gvarch1r)**
