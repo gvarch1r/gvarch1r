@@ -37,6 +37,12 @@
 
 ---
 
+### Organizations
+
+**[SupnTech](https://github.com/SupnTech)** — team GitHub org; public repos include **SupnHOP** VPN client releases for Windows, Android, and Linux ([SupnHOP_VPN_client](https://github.com/SupnTech/SupnHOP_VPN_client)).
+
+---
+
 ### Contact
 
 **[GitHub](https://github.com/gvarch1r)**
